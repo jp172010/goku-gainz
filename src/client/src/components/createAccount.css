@@ -1,0 +1,43 @@
+#mainDiv {
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+#title {
+  font-size: 100px;
+  text-align: center;
+  margin-top: 10%;
+  font-weight: 700;
+}
+#createAccountButton {
+  margin-left: 68%;
+  font-size: 15px;
+  color: white;
+  padding: 12px 28px;
+  border-radius: 8px;
+  border: 2px solid red;
+  background-color: red;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+#createAccountButton:hover {
+  background-color: white;
+  color: black;
+}
+#backButton {
+  margin-left: 3%;
+  font-size: 10px;
+  color: white;
+  padding: 12px 28px;
+  border-radius: 8px;
+  border: 2px solid red;
+  background-color: red;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+#backButton:hover {
+  background-color: white;
+  color: black;
+}
+

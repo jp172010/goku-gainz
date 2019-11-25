@@ -1,0 +1,66 @@
+#mainDivHome {
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+}
+#titleHome {
+  font-size: 100px;
+  text-align: center;
+  margin-top: 10%;
+  font-weight: 700;
+}
+#createAccount {
+  text-align: center;
+}
+#createAccountButtonHome {
+  font-size: 30px;
+  color: white;
+  padding: 12px 28px;
+  border-radius: 8px;
+  border: 2px solid red;
+  background-color: red;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+#createAccountButtonHome:hover {
+  background-color: white;
+  color: black;
+}
+.signInButtons {
+  font-size: 15px;
+  color: white;
+  padding: 12px 28px;
+  border-radius: 8px;
+  border: 2px solid red;
+  background-color: red;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+.signInButtons:hover {
+  background-color: white;
+  color: black;
+}
+#loginArea {
+  padding-left: 15%;
+}
+#intro {
+  font-size: 30px;
+  margin-top: 5%;
+  margin-left: 40%;
+  margin-right: 10%;
+}
+#bottomCreateAccountButton{
+  font-size: 15px;
+  color: white;
+  padding: 12px 28px;
+  border-radius: 8px;
+  border: 2px solid red;
+  background-color: red;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+#bottomCreateAccountButton:hover{
+  background-color: white;
+  color: black;
+}
